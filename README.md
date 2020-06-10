@@ -17,7 +17,7 @@ The Milken Institute Global Opportunity Index (GOI) tracks countries' performanc
 <Br>
   
 
-<iframe src="https://public.tableau.com/views/goi/Dashboard1?:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link" width="100%" height="750" frameborder="0"></iframe></center>
+<iframe src="https://public.tableau.com/views/goi/Dashboard1?:embed=y&:embed_code_version=3&:loadOrderID=0&:display_count=y&:origin=viz_share_link" width="100%" height="750" frameborder="0"></iframe>
   
 
 <br>
