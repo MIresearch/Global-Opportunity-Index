@@ -5,10 +5,10 @@
 The GOI considers economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
 <ul>
  <li> <b>Business Perception </b> measures explicit and implicit costs associated with business operations, such as tax burden, transparency, etc. </li>
- <li> Financial Services measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
- <li> Institutional Framework measures the extent to which a country’s institutions provide a supportive framework for businesses.</li>
- <li> Economic Fundamentals indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
- <li> International Standards and Policy reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
+ <li> <b>Financial Services</b> measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
+ <li> <b>Institutional Framework</b> measures the extent to which a country’s institutions provide a supportive framework for businesses.</li>
+ <li> <b>Economic Fundamentals</b> indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
+ <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
 
 The list of the variables can be found here
 <Br>
