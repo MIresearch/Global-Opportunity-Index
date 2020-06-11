@@ -1,9 +1,5 @@
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
-
-
-We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.<br><br>
-
 <H2>Global Opportunity Index</H2> 
 
 The Milken Institute Global Opportunity Index (GOI) tracks countries' performances around five categories:
