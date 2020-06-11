@@ -1,6 +1,6 @@
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
-<i>Note: The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
+
 
 We leverage our technical and analytical skills, and economic thoughts to bring new persectives to current policy discussions.<br><br>
 
@@ -24,5 +24,6 @@ The Milken Institute Global Opportunity Index (GOI) tracks countries' performanc
 <br>
 <Bh>
 For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> 
+  <i>Note: The Offical Website of the Milken Institute is <a href="https://milkeninstitute.org" target="_blank">https://milkeninstitute.org/</a>.  The current platform allows us to share on-going work while linking it to current events.</i>
 
 
