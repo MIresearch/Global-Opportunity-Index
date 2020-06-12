@@ -32,8 +32,7 @@ The GOI considers economic and financial factors that influence foreign investme
  <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
 
 <a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> The list of the variables can be found here </a>
-<a href="https://claudelopez.com/ifm-team-mi/" tatget="_blank"> The GOI reports and related work can be found here </a>  
-  
+<a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> The GOI reports and related work can be found here </a>  
 <Br>
   <H2>Interactive Map</H2> 
   <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="750" frameborder="0"></iframe>
