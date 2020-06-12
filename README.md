@@ -4,7 +4,7 @@
 https://miresearch.github.io/Global-Opportunity-Index/ -->
 <script type="text/javascript">
 var sc_project=12339751; 
-var sc_invisible=0; 
+var sc_invisible=1; 
 var sc_security="c196880c"; 
 var scJsHost = "https://";
 document.write("<sc"+"ript type='text/javascript' src='" +
