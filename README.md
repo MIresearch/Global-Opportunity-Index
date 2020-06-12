@@ -10,7 +10,7 @@ The GOI considers economic and financial factors that influence foreign investme
  <li> <b>Economic Fundamentals</b> indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
  <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
 
-<a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" The list of the variables can be found here /a>
+<a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> The list of the variables can be found here </a>
   
 <Br>
   <H2>Interactive Map</H2> 
