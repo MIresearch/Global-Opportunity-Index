@@ -34,6 +34,9 @@ The GOI considers economic and financial factors that influence foreign investme
 <a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+
+
 <Br>
   <H2>Interactive Map</H2> 
   <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
