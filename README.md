@@ -20,8 +20,8 @@ alt="Web Analytics"></a></div></noscript>
  </head>
 
 
-<H1><b>Milken Institute Research Department </b></H1><Hr>
-<H2><b>Global Opportunity Index -- GOI</b></H2> 
+<H1><b>Milken Institute Research Department </b></H1>  <Hr>
+<H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
 The GOI considers economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
 <ul>
