@@ -47,8 +47,6 @@ The GOI considers economic and financial factors that influence foreign investme
 <br>
 <br>
 <Bh>
-For questions and comments:<a href="mailto:research@milkeninstitute.org"> research@milkeninstitute.org </a><br> <br>
-  <i>Note: <br>Our official webpage is <a href="https://milkeninstitute.org/research-department" target="_blank">https://milkeninstitute.org/research-department</a> <br>
-A more complete collection of our work can be found <a href="https://claudelopez.com/research-dpt-mi/ " target="_blank"><b>here </b></a> <br> <br>  </i>
+
 
 
