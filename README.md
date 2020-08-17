@@ -18,7 +18,7 @@ src="https://c.statcounter.com/12339751/0/c196880c/0/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
  
- <meta name="twitter:title" content="Global Opportunity Index">
+<meta name="twitter:title" content="Global Opportunity Index">
 <meta name="twitter:image" content="http://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
