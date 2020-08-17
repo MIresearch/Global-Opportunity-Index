@@ -17,6 +17,17 @@ class="statcounter"
 src="https://c.statcounter.com/12339751/0/c196880c/0/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
+ 
+ <meta name="twitter:title" content="Global Opportunity Index">
+<meta name="twitter:image" content="https://github.com/MIresearch/Global-Opportunity-Index/blob/master/Annotation%202020-06-12%20072905.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="Global Opportunity Index">
+<meta property="og:image" content="https://github.com/MIresearch/Global-Opportunity-Index/blob/master/Annotation%202020-06-12%20072905.png">
+<meta property="og:image:url" content="https://github.com/MIresearch/Global-Opportunity-Index/blob/master/Annotation%202020-06-12%20072905.png">
+<meta property="og:image:secure_url" content="https://github.com/MIresearch/Global-Opportunity-Index/blob/master/Annotation%202020-06-12%20072905.png">
+<meta property="og:url" content="https://miresearch.github.io/Global-Opportunity-Index/">
+
  </head>
 
 
