@@ -50,7 +50,7 @@ The GOI considers economic and financial factors that influence foreign investme
 
 <Br>
   <H2>Interactive Map</H2> 
-  <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+  <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
   <br>
   <H2>Interactive Ranking</H2> 
   <iframe src="https://public.tableau.com/views/goi1/Dashboard3?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
