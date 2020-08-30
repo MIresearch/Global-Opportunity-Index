@@ -31,10 +31,10 @@ alt="Web Analytics"></a></div></noscript>
  </head>
 
 
-<H1><b>Milken Institute Research Department </b></H1>  <Hr>
+<H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
-The GOI considers economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
+The GOI is a interactive plaform that allows user to assess countries attractiveness to international investors based on economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
 <ul>
  <li> <b>Business Perception </b> measures explicit and implicit costs associated with business operations, such as tax burden, transparency, etc. </li>
  <li> <b>Financial Services</b> measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
