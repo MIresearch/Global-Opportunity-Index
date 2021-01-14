@@ -59,6 +59,11 @@ Our map also includes historical Global Opportunity Index data, giving users the
   <iframe src="https://public.tableau.com/views/GlobalOpportunityIndex/Dashboard4?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
   <br>
 <Br>
+
+<H2>Interactive Map</H2> 
+  <iframe src="https://public.tableau.com/views/GlobalOpportunityIndex/Dashboard4?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
+  <br>
+<Br>
   
   <H2>Ranking</H2> 
   <iframe src="https://public.tableau.com/views/GlobalOpportunityIndex/Dashboard5?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
