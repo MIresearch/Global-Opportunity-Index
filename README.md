@@ -54,8 +54,6 @@ Our map also includes historical Global Opportunity Index data, giving users the
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
-<H2>Interactive Map</H2> 
-  <iframe src="https://public.tableau.com/views/GOI_Table_2017-2021_Final/Sheet1?:language=en&:display_count=y&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
 
 <H2>Interactive Map</H2> 
   <iframe src="https://public.tableau.com/views/GlobalOpportunityIndex/Dashboard4?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
