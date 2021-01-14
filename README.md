@@ -39,12 +39,14 @@ The Global Opportunity Index provides a holistic view of the global investment l
 
 We assess countries attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories: 
 <ul>
- <li> <b>Business Perception </b> - measures the constraints facing businesses and the ease for businesses to resolve disputes.  
-<li> <b>Economic Fundamentals </b> - captures a country's macroeconomic outlook, workforce talent, and potential for future innovation and development. 
-<li> <b>Financial Services </b> - measures the depth and breadth of a country's access to financial services. 
-<li> <b>Institutional Framework </b> - captures the extent to which a country's institutions help or hinder business activity. 
-<li> <b>International Standards & Policy </b> - measures how integrated a country is within the international community and the likelihood they will conform to international standards.  
+ <li> <b>Business Perception </b> - measures the constraints facing businesses and the ease for businesses to resolve disputes.  </li>
+<li> <b>Economic Fundamentals </b> - captures a country's macroeconomic outlook, workforce talent, and potential for future innovation and development. </li>
+<li> <b>Financial Services </b> - measures the depth and breadth of a country's access to financial services. </li>
+<li> <b>Institutional Framework </b> - captures the extent to which a country's institutions help or hinder business activity. </li>
+<li> <b>International Standards & Policy </b> - measures how integrated a country is within the international community and the likelihood they will conform to international standards.  </li>
 </ul>
+
+
 The interactive map below gives users the ability to compare how a country performs at the category level with their peers – determined by geographic region and income level. 
 
 Our map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
