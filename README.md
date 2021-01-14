@@ -34,18 +34,28 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
-The GOI is a interactive plaform that allows users to assess countries attractiveness to international investors based on economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
+
+The Global Opportunity Index provides a holistic view of the global investment landscape by ranking countries based on their attractiveness to international investors.  
+
+We assess countries attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories: 
 <ul>
- <li> <b>Business Perception </b> measures explicit and implicit costs associated with business operations, such as tax burden, transparency, etc. </li>
- <li> <b>Financial Services</b> measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
- <li> <b>Institutional Framework</b> measures the extent to which a country’s institutions provide a supportive framework for businesses.</li>
- <li> <b>Economic Fundamentals</b> indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
- <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
+ <li> <b>Business Perception </b> - measures the constraints facing businesses and the ease for businesses to resolve disputes.  
+<li> <b>Economic Fundamentals </b> - captures a country's macroeconomic outlook, workforce talent, and potential for future innovation and development. 
+<li> <b>Financial Services </b> - measures the depth and breadth of a country's access to financial services. 
+<li> <b>Institutional Framework </b> - captures the extent to which a country's institutions help or hinder business activity. 
+<li> <b>International Standards & Policy </b> - measures how integrated a country is within the international community and the likelihood they will conform to international standards.  
+</ul>
+The interactive map below gives users the ability to compare how a country performs at the category level with their peers – determined by geographic region and income level. 
+
+Our map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
 
 <a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
+
+<H2>Interactive Map</H2> 
+  <iframe src="https://public.tableau.com/views/GOI_Table_2017-2021_Final/Sheet1?:language=en&:display_count=y&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
 
 <H2>Interactive Map</H2> 
   <iframe src="https://public.tableau.com/views/GlobalOpportunityIndex/Dashboard4?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
