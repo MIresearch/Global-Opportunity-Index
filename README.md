@@ -35,9 +35,7 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
 
-The Global Opportunity Index provides a holistic view of the global investment landscape by ranking countries based on their attractiveness to international investors.  
-
-We assess countries attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories: 
+The Global Opportunity Index measures a country's attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories: 
 <ul>
  <li> <b>Business Perception </b> - measures the constraints facing businesses and the ease for businesses to resolve disputes.  </li>
 <li> <b>Economic Fundamentals </b> - captures a country's macroeconomic outlook, workforce talent, and potential for future innovation and development. </li>
@@ -49,7 +47,7 @@ We assess countries attractiveness to international investors using a combinatio
 
 The interactive map below gives users the ability to compare how a country performs at the category level with their peers – determined by geographic region and income level. 
 
-Our map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
+The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
 
 <a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
