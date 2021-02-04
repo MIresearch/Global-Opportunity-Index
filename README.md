@@ -49,7 +49,7 @@ The interactive map below gives users the ability to compare how a country perfo
 
 The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
 
-<a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
+<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/goi-white%20paper.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
