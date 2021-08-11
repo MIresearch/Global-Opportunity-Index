@@ -66,11 +66,12 @@ The map also includes historical Global Opportunity Index data, giving users the
   
 <H2>Related Work  </H2>
 -<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
--<a href="https://milkeninstitute.org/report/bahrain-and-fourth-industrial-revolution" target="_blank"> Bahrain and the Fourth Industrial Revolution </a> <br>
+-<a href="https://milkeninstitute.org/report/global-opportunity-index-2020-focus-gcc-countries" target="_blank"> Global Opportunity Index 2020: Focus on the GCC Countries </a> <br>
+ -<a href="https://milkeninstitute.org/report/bahrain-and-fourth-industrial-revolution" target="_blank"> Bahrain and the Fourth Industrial Revolution </a> <br>
 -<a href="https://milkeninstitute.org/report/global-opportunity-index-2018-emerging-g20-countries-and-capital-flow-reversal" target="_blank"> Global Opportunity Index 2018: Emerging G20 Countries and Capital Flow Reversal</a> <br>
 -<a href="https://milkeninstitute.org/report/increased-chinese-presence-and-other-developments-southeast-asian-cross-border-ma-landscape" target="_blank"> Increased Chinese Presence and Other Developments in the Southeast Asian Cross-Border M&A Landscape</a><br>
--<a href="https://milkeninstitute.org/report/global-opportunity-index-european-experience" target="_blank"> Global Opportunity Index: A European Experience</a><br>
--<a href="https://milkeninstitute.org/report/global-opportunity-index-global-investors-growing-focus-asia" target="_blank"> Global Opportunity Index: Global Investors' Growing Focus on Asia</a><br>
+-<a href="https://milkeninstitute.org/report/global-opportunity-index-european-experience" target="_blank"> Global Opportunity Index 2017: A European Experience</a><br>
+-<a href="https://milkeninstitute.org/report/global-opportunity-index-global-investors-growing-focus-asia" target="_blank"> Global Opportunity Index 2017: Global Investors' Growing Focus on Asia</a><br>
  -<a href="https://milkeninstitute.org/report/cross-border-investment-europe-macro-financial-data" target="_blank"> Cross-Border Investment in Europe: From Macro to Financial Data</a><br>
 -<a href="https://milkeninstitute.org/report/global-opportunity-index-2016" target="_blank"> Global Opportunity Index 2016, Beyong FDI: Lessons from Asia</a><br>
 -<a href="https://milkeninstitute.org/report/trade-finance-catalyst-growth-asia" target="_blank"> Trade Finance: A Catalyst for Growth in Asia</a><br>
