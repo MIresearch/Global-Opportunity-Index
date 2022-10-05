@@ -61,7 +61,7 @@ The map also includes historical Global Opportunity Index data, giving users the
   
  <Br>
 
-  <H2>Heat Map</H2> 
+  <H2>Rankings Heat Map</H2> 
  <iframe src= "https://public.tableau.com/views/TableauMap-RanksGOIonline/HeatMap-Dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
    
