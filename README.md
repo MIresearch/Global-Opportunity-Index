@@ -47,7 +47,7 @@ The Global Opportunity Index measures a country's attractiveness to internationa
 
 The interactive map below gives users the ability to compare how a country performs at the category level with their peers – determined by geographic region and income level. 
 
-The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance over the last 5 years (2017-2021). While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
+The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance, starting 2017. While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
 
 <a href="https://milkeninstitute.org/sites/default/files/reports-pdf/goi-white%20paper.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
@@ -56,8 +56,7 @@ The map also includes historical Global Opportunity Index data, giving users the
 
 
 <H2>Interactive Map</H2> 
-  <iframe src=" https://public.tableau.com/views/GOI_2017-2021_FinalVersion/GOI_2017-2021?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
-  <br>
+ 
   <iframe src=" https://public.tableau.com/views/TableauMap-Ranksonline/Map-Dash?:language=en-US&:display_count=n&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
   
   <br>
