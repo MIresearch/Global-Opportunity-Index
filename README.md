@@ -62,12 +62,12 @@ The map also includes historical Global Opportunity Index data, giving users the
  <Br>
 
   <H2>Heat Map</H2> 
- <iframe src= https://public.tableau.com/views/TableauMap-RanksGOIonline/HeatMap-Dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+ <iframe src= "https://public.tableau.com/views/TableauMap-RanksGOIonline/HeatMap-Dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
    
   <H2>Rankings Distributions</H2> 
    
-  <iframe src="https://public.tableau.com/views/TableauMap-RanksGOIonline/DotBox-Dash1?:showVizHome=no&:embed=true"
+  <iframe src="https://public.tableau.com/views/TableauMap-RanksGOIonline/DotBox-Dash1?:showVizHome=no&:embed=true"width="100%" height="650" frameborder="0"></iframe>
    
    
 <H2>Related Work  </H2>
