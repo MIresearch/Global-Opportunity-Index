@@ -57,7 +57,7 @@ The map also includes historical Global Opportunity Index data, giving users the
 
 <H2>Interactive Map</H2> 
   <iframe src=" https://public.tableau.com/views/GOI_2017-2021_FinalVersion/GOI_2017-2021?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
-  
+  <br>
   <iframe src=" https://public.tableau.com/views/TableauMap-Ranksonline/Map-Dash?:language=en-US&:display_count=n&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
   
   <br>
