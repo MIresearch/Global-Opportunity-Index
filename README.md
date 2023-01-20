@@ -35,19 +35,17 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
 
-The Global Opportunity Index measures a country's attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories: 
-<ul>
- <li> <b>Business Perception </b> - measures the constraints facing businesses and the ease for businesses to resolve disputes.  </li>
-<li> <b>Economic Fundamentals </b> - captures a country's macroeconomic outlook, workforce talent, and potential for future innovation and development. </li>
-<li> <b>Financial Services </b> - measures the depth and breadth of a country's access to financial services. </li>
-<li> <b>Institutional Framework </b> - captures the extent to which a country's institutions help or hinder business activity. </li>
-<li> <b>International Standards & Policy </b> - measures how integrated a country is within the international community and the likelihood they will conform to international standards.  </li>
-</ul>
-
+The Global Opportunity Index measures a country's attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into 5 categories and 14 sub-categories. To see the variables included in each cateogry, hover over the 14 sub-categories displayed below. 
+ <Br>
+   
+  <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test/Dashboard1?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  <Br>
 
 The interactive map below gives users the ability to compare how a country performs at the category level with their peers – determined by geographic region and income level. 
 
 The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance, starting 2017. While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
+
+The dot plots below the map provides users information on the distribution of ranking by countries' income level with the ability to highlight specific regions and countries. The boxes in the dot plots represent the confidence intervals for the distribution of ranking. Finally, the heat maps provide information on the 14 sub-categories of the GOI, with countries that rank first by each sub-category highlighted in dark green in the top left corner and countries that rank last highlighted in yellow in the bottom right corner of the heatmap.
 
 <a href="https://milkeninstitute.org/sites/default/files/reports-pdf/goi-white%20paper.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
@@ -57,18 +55,20 @@ The map also includes historical Global Opportunity Index data, giving users the
 
 <H2>Interactive Map</H2> 
  
-  <iframe src="https://public.tableau.com/views/TableauMap-RanksGOIonline/Map-Dash?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
+  <iframe src="https://public.tableau.com/views/TableauMap-Test/Map-Dash?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
   
  <Br>
 
-  <H2>Rankings Heat Map</H2> 
- <iframe src= "https://public.tableau.com/views/TableauMap-RanksGOIonline/HeatMap-Dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
-  <Br>
-   
   <H2>Rankings Distributions</H2> 
    
-  <iframe src="https://public.tableau.com/views/TableauMap-RanksGOIonline/DotBox-Dash1?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
-   
+  <iframe src="https://public.tableau.com/views/Tableaudots-Test/Categ-BoxPlots?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  <Br>
+  
+
+  <H2>Sub-Category Heat Map</H2> 
+ <iframe src= "https://public.tableau.com/views/TableauHeatMap-Test/SubCat-HeatMap?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  <Br>
+
    
 <H2>Related Work  </H2>
 -<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
